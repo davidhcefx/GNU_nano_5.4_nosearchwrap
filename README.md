@@ -1,4 +1,5 @@
 # GNU nano (5.4) - nosearchwrap
+[![build](https://github.com/davidhcefx/GNU_nano_5.4_nosearchwrap/actions/workflows/build.yml/badge.svg)](https://github.com/davidhcefx/GNU_nano_5.4_nosearchwrap/actions/workflows/build.yml)
 
 - While performing textual search, many editors, for instance [Sublime](https://www.sublimetext.com/), support toggling the option **Wrap**, which is to wrap past end-of-file and proceed searching. It will be nice if Nano can have this too!
 
